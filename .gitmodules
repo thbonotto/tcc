@@ -1,0 +1,6 @@
+[submodule "org.eclipse.kura.micaz"]
+	path = org.eclipse.kura.micaz
+	url = https://github.com/thbonotto/org.eclipse.kura.micaz
+[submodule "MicaZDeviceAndCoordinatorApp"]
+	path = MicaZDeviceAndCoordinatorApp
+	url = https://github.com/thbonotto/MicaZApps
